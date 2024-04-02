@@ -12,8 +12,8 @@ Bem-vindo ao repositório dedicado ao Frontend Avançado!
 
 Para mais informações ou sugestões, entre em contato:
 
-- **Seu Nome**
-  - 📧 E-mail: seu.email@example.com
+- **Renata CHOM**
+  - 📧 E-mail: renatachom.ads@gmail.com
 
 ---
 
